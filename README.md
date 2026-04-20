@@ -46,3 +46,5 @@ git clone https://github.com/charithgaya/task-manager-backend.git
 cd task-manager-backend
 npm install
 npm start
+
+#### R.A. Charith Gayashan Deshapriya - Skyrek Full Stack Batch 06 - Reg.No. : FSDC6642
